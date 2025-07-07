@@ -6,7 +6,7 @@ public class Ejercicio_04_depth {
 
     /**
      * Calcula la profundidad máxima de un árbol binario.
-     * La profundidad es el número de nodos a lo largo del camino más largo
+     * La profundidad es el número de nodos a lo largo del camino más larg
      * desde el nodo raíz hasta el nodo hoja más lejano.
      *
      * @param root La raíz del árbol.
